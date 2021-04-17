@@ -18,4 +18,4 @@ Pylint Runner is a simple tool, very easy to use. There are two ways to user thi
 		</code>
 	</li>
 </ol>
-<b>Note:</b>Make sure you have rights to modify files in your project folder.
+<b>Note:</b> Make sure you have rights to modify files in your project folder.
